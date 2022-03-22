@@ -1,5 +1,5 @@
 # quickdestur
-qucik abdest but open source
+quickabdest but open source
 
 <a href="https://darkao.github.io/quickdestur/" target="_blank">DEMO İÇİN TIKLA!</a>
 
